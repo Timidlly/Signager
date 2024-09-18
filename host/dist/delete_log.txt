@@ -1,0 +1,40 @@
+[2024-07-16 13:04:53] db_config.php found and included
+[2024-07-16 13:04:53] Account ID fetched: SIGN2870
+[2024-07-16 13:04:53] File deletion attempt - URL: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966e44bc861_MultiscreenVideoWallForBillingCounters&Restaurants.png
+[2024-07-16 13:04:53] File deleted successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-images/66966e44bc861_MultiscreenVideoWallForBillingCounters&Restaurants.png
+[2024-07-16 16:20:15] db_config.php found and included
+[2024-07-16 16:20:15] Account ID fetched: SIGN2870
+[2024-07-16 16:20:15] File deletion attempt - URL: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66969ad26ea95_Screenshot2024-05-24at12.34.08 PM.png
+[2024-07-16 16:20:15] File deleted successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-images/66969ad26ea95_Screenshot2024-05-24at12.34.08 PM.png
+[2024-07-29 11:14:12] db_config.php found and included
+[2024-07-29 11:14:12] Account ID fetched: SIGN2871
+[2024-07-29 11:14:12] File deletion attempt - URL: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/669f717f6f8e5_color-meanings-infographic.png
+[2024-07-29 11:14:12] File deleted successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-images/669f717f6f8e5_color-meanings-infographic.png
+[2024-07-29 11:14:15] db_config.php found and included
+[2024-07-29 11:14:15] Account ID fetched: SIGN2871
+[2024-07-29 11:14:15] File deletion attempt - URL: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/669f71611f60d_Untitleddesign(3).mp4
+[2024-07-29 11:14:15] File deleted successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-videos/669f71611f60d_Untitleddesign(3).mp4
+[2024-07-29 11:14:18] db_config.php found and included
+[2024-07-29 11:14:18] Account ID fetched: SIGN2871
+[2024-07-29 11:14:18] File deletion attempt - URL: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/669f7167493bf_WhatsAppVideo2024-07-22at16.44.35.mp4
+[2024-07-29 11:14:18] File deleted successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-videos/669f7167493bf_WhatsAppVideo2024-07-22at16.44.35.mp4
+[2024-08-04 06:16:35] db_config.php found and included
+[2024-08-04 06:16:35] Account ID fetched: SIGN2870
+[2024-08-04 06:16:35] File deletion attempt - URL: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-videos/66a9066ec517a_Untitleddesign(3).mp4
+[2024-08-04 06:16:35] File deleted successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/66a9066ec517a_Untitleddesign(3).mp4
+[2024-08-12 13:32:41] db_config.php found and included
+[2024-08-12 13:32:41] Account ID fetched: SIGN2873
+[2024-08-12 13:32:41] File deletion attempt - URL: https://www.signager.cloud/host/dist/user-content/SIGN2873/user-videos/66ba0a6f0e326_C5156.MP4
+[2024-08-12 13:32:41] File deleted successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2873/user-videos/66ba0a6f0e326_C5156.MP4
+[2024-08-13 12:25:15] db_config.php found and included
+[2024-08-13 12:25:15] Account ID fetched: SIGN2871
+[2024-08-13 12:25:15] File deletion attempt - URL: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66a8c3fab2561_Untitleddesign(3).mp4
+[2024-08-13 12:25:15] File deleted successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-videos/66a8c3fab2561_Untitleddesign(3).mp4
+[2024-08-13 12:25:21] db_config.php found and included
+[2024-08-13 12:25:21] Account ID fetched: SIGN2871
+[2024-08-13 12:25:21] File deletion attempt - URL: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66a8c3fd6f33f_WhatsAppVideo2024-07-22at16.44.35.mp4
+[2024-08-13 12:25:21] File deleted successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-videos/66a8c3fd6f33f_WhatsAppVideo2024-07-22at16.44.35.mp4
+[2024-08-13 12:25:24] db_config.php found and included
+[2024-08-13 12:25:24] Account ID fetched: SIGN2871
+[2024-08-13 12:25:24] File deletion attempt - URL: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66bb08a8b261b_VirinchiScreen4.mp4
+[2024-08-13 12:25:24] File deleted successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-videos/66bb08a8b261b_VirinchiScreen4.mp4

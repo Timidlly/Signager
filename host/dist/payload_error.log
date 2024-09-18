@@ -1,0 +1,163 @@
+[17-Jul-2024 08:38:23 UTC] Received data: Array
+(
+    [accountId] => 1
+    [groupId] => 246862
+    [screenId] => 352072
+    [payloads] => Array
+        (
+            [0] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966ba37a346_1651894452849.jpeg
+            [1] => 
+            [2] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c3c94bac_Screenshot2024-07-01at1.10.34%E2%80%AFPM.png
+            [3] => 
+            [4] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c5b84f96_color-meanings-infographic.png
+            [5] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c4ae2790_Ridaex_TIMELINEIMAGE.jpeg
+        )
+
+)
+
+[17-Jul-2024 08:38:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'delivery_7' cannot be null in /home/u740693683/domains/signager.cloud/public_html/host/dist/push_payload.php:43
+Stack trace:
+#0 /home/u740693683/domains/signager.cloud/public_html/host/dist/push_payload.php(43): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/u740693683/domains/signager.cloud/public_html/host/dist/push_payload.php on line 43
+[17-Jul-2024 08:38:45 UTC] Received data: Array
+(
+    [accountId] => 1
+    [groupId] => 246862
+    [screenId] => 352072
+    [payloads] => Array
+        (
+            [0] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966ba37a346_1651894452849.jpeg
+            [1] => 
+            [2] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c3c94bac_Screenshot2024-07-01at1.10.34%E2%80%AFPM.png
+            [3] => 
+            [4] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c5b84f96_color-meanings-infographic.png
+            [5] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c4ae2790_Ridaex_TIMELINEIMAGE.jpeg
+        )
+
+)
+
+[17-Jul-2024 08:38:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'delivery_7' cannot be null in /home/u740693683/domains/signager.cloud/public_html/host/dist/push_payload.php:43
+Stack trace:
+#0 /home/u740693683/domains/signager.cloud/public_html/host/dist/push_payload.php(43): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/u740693683/domains/signager.cloud/public_html/host/dist/push_payload.php on line 43
+[17-Jul-2024 08:44:38 UTC] Received data: Array
+(
+    [accountId] => 1
+    [groupId] => 246862
+    [screenId] => 352072
+    [payloads] => Array
+        (
+            [0] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966ba37a346_1651894452849.jpeg
+            [1] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c5b84f96_color-meanings-infographic.png
+            [2] => 
+            [3] => 
+            [4] => 
+            [5] => 
+        )
+
+)
+
+[17-Jul-2024 08:44:38 UTC] mysqli_sql_exception: Column 'delivery_7' cannot be null in /home/u740693683/domains/signager.cloud/public_html/host/dist/push_payload.php:64
+Stack trace:
+#0 /home/u740693683/domains/signager.cloud/public_html/host/dist/push_payload.php(64): mysqli_stmt->execute()
+#1 {main}
+[17-Jul-2024 08:45:35 UTC] Received data: Array
+(
+    [accountId] => 1
+    [groupId] => 246862
+    [screenId] => 352072
+    [payloads] => Array
+        (
+            [0] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966ba37a346_1651894452849.jpeg
+            [1] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c5b84f96_color-meanings-infographic.png
+            [2] => 
+            [3] => 
+            [4] => 
+            [5] => 
+        )
+
+)
+
+[17-Jul-2024 08:45:35 UTC] mysqli_sql_exception: Column 'delivery_7' cannot be null in /home/u740693683/domains/signager.cloud/public_html/host/dist/push_payload.php:64
+Stack trace:
+#0 /home/u740693683/domains/signager.cloud/public_html/host/dist/push_payload.php(64): mysqli_stmt->execute()
+#1 {main}
+[17-Jul-2024 08:51:54 UTC] Received data: Array
+(
+    [accountId] => 1
+    [groupId] => 246862
+    [screenId] => 352072
+    [payloads] => Array
+        (
+            [0] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966ba37a346_1651894452849.jpeg
+            [1] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c5b84f96_color-meanings-infographic.png
+            [2] => 
+            [3] => 
+            [4] => 
+            [5] => 
+        )
+
+)
+
+[17-Jul-2024 08:53:28 UTC] Received data: Array
+(
+    [accountId] => 1
+    [groupId] => 246862
+    [screenId] => 352072
+    [payloads] => Array
+        (
+            [0] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966ba37a346_1651894452849.jpeg
+            [1] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c3c94bac_Screenshot2024-07-01at1.10.34%E2%80%AFPM.png
+            [2] => 
+            [3] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c5b84f96_color-meanings-infographic.png
+            [4] => 
+            [5] => 
+        )
+
+)
+
+[17-Jul-2024 08:54:03 UTC] Received data: Array
+(
+    [accountId] => 1
+    [groupId] => 246862
+    [screenId] => 352072
+    [payloads] => Array
+        (
+            [0] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966ba37a346_1651894452849.jpeg
+            [1] => 
+            [2] => 
+            [3] => 
+            [4] => 
+            [5] => 
+        )
+
+)
+
+[17-Jul-2024 09:06:40 UTC] Exception: Invalid input data in /home/u740693683/domains/signager.cloud/public_html/host/dist/push_payload.php:57
+Stack trace:
+#0 {main}
+[17-Jul-2024 09:06:45 UTC] Exception: Invalid input data in /home/u740693683/domains/signager.cloud/public_html/host/dist/push_payload.php:57
+Stack trace:
+#0 {main}
+[17-Jul-2024 09:08:22 UTC] Received POST data: Array
+(
+    [accountId] => SIGN2870
+    [groupId] => 246862
+    [screenId] => 352072
+    [payloads] => Array
+        (
+            [0] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966ba37a346_1651894452849.jpeg
+            [1] => https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c3c94bac_Screenshot2024-07-01at1.10.34%E2%80%AFPM.png
+            [2] => 
+            [3] => 
+            [4] => 
+            [5] => 
+            [6] => 
+            [7] => 
+        )
+
+)
+
+[17-Jul-2024 09:08:22 UTC] Error in push_payload.php: Invalid account ID

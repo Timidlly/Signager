@@ -1,0 +1,587 @@
+[2024-07-15 16:05:21] File upload attempt - Type: video, File type: image/jpeg, Size: 32632
+[2024-07-15 16:05:21] Error: Invalid video type: image/jpeg
+[2024-07-15 16:06:57] db_config.php found and included
+[2024-07-15 16:06:57] File upload attempt - Type: image, File type: image/jpeg, Size: 32632
+[2024-07-15 16:06:57] Error: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'account_id' cannot be null
+[2024-07-15 16:10:44] db_config.php found and included
+[2024-07-15 16:10:44] Account ID fetched: SIGN2871
+[2024-07-15 16:10:44] File upload attempt - Type: video, File type: image/jpeg, Size: 32632
+[2024-07-15 16:10:44] Error: Invalid video type: image/jpeg
+[2024-07-15 16:11:23] db_config.php found and included
+[2024-07-15 16:11:23] Account ID fetched: SIGN2871
+[2024-07-15 16:11:23] File upload attempt - Type: video, File type: image/jpeg, Size: 32632
+[2024-07-15 16:11:23] Error: Invalid video type: image/jpeg
+[2024-07-15 16:11:42] db_config.php found and included
+[2024-07-15 16:11:42] Account ID fetched: SIGN2871
+[2024-07-15 16:11:42] File upload attempt - Type: image, File type: image/jpeg, Size: 66441
+[2024-07-15 16:11:42] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/dist/user-content/SIGN2871/user-images/66954a3e084fe_1651894452849.jpeg
+[2024-07-15 16:11:52] db_config.php found and included
+[2024-07-15 16:11:52] Account ID fetched: SIGN2871
+[2024-07-15 16:11:52] File upload attempt - Type: video, File type: image/jpeg, Size: 32632
+[2024-07-15 16:11:52] Error: Invalid video type: image/jpeg
+[2024-07-15 16:11:58] db_config.php found and included
+[2024-07-15 16:11:58] Account ID fetched: SIGN2871
+[2024-07-15 16:11:58] File upload attempt - Type: image, File type: image/png, Size: 178059
+[2024-07-15 16:11:58] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/dist/user-content/SIGN2871/user-images/66954a4ea4d26_WhatsApp_Image_2024-07-10_at_12.03.59_600x560-removebg-preview.png
+[2024-07-15 16:12:07] db_config.php found and included
+[2024-07-15 16:12:07] Account ID fetched: SIGN2871
+[2024-07-15 16:12:07] File upload attempt - Type: video, File type: video/mp4, Size: 9340370
+[2024-07-15 16:12:07] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/dist/user-content/SIGN2871/user-videos/66954a57515ba_20230522_143251 (1).mp4
+[2024-07-15 16:12:17] db_config.php found and included
+[2024-07-15 16:12:17] Account ID fetched: SIGN2871
+[2024-07-15 16:12:17] File upload attempt - Type: image, File type: image/png, Size: 853622
+[2024-07-15 16:12:17] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/dist/user-content/SIGN2871/user-images/66954a61c075d_Screenshot 2024-07-01 at 1.10.34 PM.png
+[2024-07-15 16:17:27] db_config.php found and included
+[2024-07-15 16:17:27] Account ID fetched: SIGN2871
+[2024-07-15 16:17:27] File upload attempt - Type: video, File type: image/jpeg, Size: 32632
+[2024-07-15 16:17:27] Error: Invalid video type: image/jpeg
+[2024-07-15 16:17:31] db_config.php found and included
+[2024-07-15 16:17:31] Account ID fetched: SIGN2871
+[2024-07-15 16:17:31] File upload attempt - Type: image, File type: image/jpeg, Size: 32632
+[2024-07-15 16:17:31] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-images/66954b9bbe1ff_Ridaex_TIMELINE  IMAGE.jpeg
+[2024-07-15 16:17:36] db_config.php found and included
+[2024-07-15 16:17:36] Account ID fetched: SIGN2871
+[2024-07-15 16:17:36] File upload attempt - Type: image, File type: image/png, Size: 178059
+[2024-07-15 16:17:36] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-images/66954ba03e013_WhatsApp_Image_2024-07-10_at_12.03.59_600x560-removebg-preview.png
+[2024-07-15 16:17:44] db_config.php found and included
+[2024-07-15 16:17:44] Account ID fetched: SIGN2871
+[2024-07-15 16:17:44] File upload attempt - Type: video, File type: image/png, Size: 3401261
+[2024-07-15 16:17:44] Error: Invalid video type: image/png
+[2024-07-15 16:17:50] db_config.php found and included
+[2024-07-15 16:17:50] Account ID fetched: SIGN2871
+[2024-07-15 16:17:50] File upload attempt - Type: video, File type: image/png, Size: 3401261
+[2024-07-15 16:17:50] Error: Invalid video type: image/png
+[2024-07-15 16:17:57] db_config.php found and included
+[2024-07-15 16:17:57] Account ID fetched: SIGN2871
+[2024-07-15 16:17:57] File upload attempt - Type: video, File type: video/mp4, Size: 9340370
+[2024-07-15 16:17:57] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-videos/66954bb5d061c_20230522_143251 (1).mp4
+[2024-07-15 16:19:18] db_config.php found and included
+[2024-07-15 16:19:18] Account ID fetched: SIGN2870
+[2024-07-15 16:19:18] File upload attempt - Type: video, File type: image/png, Size: 3401261
+[2024-07-15 16:19:18] Error: Invalid video type: image/png
+[2024-07-15 16:19:21] db_config.php found and included
+[2024-07-15 16:19:21] Account ID fetched: SIGN2870
+[2024-07-15 16:19:21] File upload attempt - Type: image, File type: image/png, Size: 2427981
+[2024-07-15 16:19:21] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-images/66954c09eecfc_Screenshot 2024-03-30 at 4.28.11 PM.png
+[2024-07-15 16:19:36] db_config.php found and included
+[2024-07-15 16:19:36] Account ID fetched: SIGN2870
+[2024-07-15 16:19:36] File upload attempt - Type: video, File type: video/mp4, Size: 29127152
+[2024-07-15 16:19:36] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/66954c185c43b_FInal Hotel video.mp4
+[2024-07-15 16:26:31] db_config.php found and included
+[2024-07-15 16:26:31] Account ID fetched: SIGN2870
+[2024-07-15 16:26:31] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-15 16:26:31] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/66954db722f0a_DIGITAL SIGNAGE TV.mp4
+[2024-07-15 16:26:42] db_config.php found and included
+[2024-07-15 16:26:42] Account ID fetched: SIGN2870
+[2024-07-15 16:26:42] File upload attempt - Type: image, File type: image/png, Size: 178059
+[2024-07-15 16:26:42] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-images/66954dc2471b5_WhatsApp_Image_2024-07-10_at_12.03.59_600x560-removebg-preview.png
+[2024-07-15 16:26:52] db_config.php found and included
+[2024-07-15 16:26:52] Account ID fetched: SIGN2870
+[2024-07-15 16:26:52] File upload attempt - Type: image, File type: image/png, Size: 597103
+[2024-07-15 16:26:52] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-images/66954dcc3a641_Multiscreen Video Wall For Billing Counters & Restaurants.png
+[2024-07-15 16:29:37] db_config.php found and included
+[2024-07-15 16:29:37] Account ID fetched: SIGN2870
+[2024-07-15 16:29:37] File upload attempt - Type: video, File type: video/mp4, Size: 118213680
+[2024-07-15 16:29:37] Error: File size exceeds the limit.
+[2024-07-15 16:30:12] db_config.php found and included
+[2024-07-15 16:30:12] Account ID fetched: SIGN2870
+[2024-07-15 16:30:12] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-15 16:30:12] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/66954e94b32c5_DIGITAL SIGNAGE TV.mp4
+[2024-07-15 16:36:46] db_config.php found and included
+[2024-07-15 16:36:46] Account ID fetched: SIGN2870
+[2024-07-15 16:36:46] File upload attempt - Type: image, File type: image/png, Size: 597103
+[2024-07-15 16:36:46] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-images/6695501eeb5e7_Multiscreen Video Wall For Billing Counters & Restaurants.png
+[2024-07-15 16:36:52] db_config.php found and included
+[2024-07-15 16:36:52] Account ID fetched: SIGN2870
+[2024-07-15 16:36:52] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-15 16:36:52] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/6695502416800_DIGITAL SIGNAGE TV.mp4
+[2024-07-15 16:43:45] db_config.php found and included
+[2024-07-15 16:43:45] Account ID fetched: SIGN2870
+[2024-07-15 16:43:45] File upload attempt - Type: image, File type: image/png, Size: 597103
+[2024-07-15 16:43:45] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-images/669551c1cf0ee_Multiscreen Video Wall For Billing Counters & Restaurants.png
+[2024-07-15 16:59:57] db_config.php found and included
+[2024-07-15 16:59:57] Account ID fetched: SIGN2870
+[2024-07-15 16:59:57] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-15 16:59:57] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/6695558dcd27c_DIGITAL SIGNAGE TV.mp4
+[2024-07-15 17:00:59] db_config.php found and included
+[2024-07-15 17:00:59] Account ID fetched: SIGN2870
+[2024-07-15 17:00:59] File upload attempt - Type: image, File type: image/jpeg, Size: 32632
+[2024-07-15 17:00:59] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-images/669555cb08c1c_Ridaex_TIMELINE  IMAGE.jpeg
+[2024-07-15 17:03:56] db_config.php found and included
+[2024-07-15 17:03:56] Account ID fetched: SIGN2870
+[2024-07-15 17:03:56] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-15 17:03:56] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/6695567ca1224_DIGITAL SIGNAGE TV.mp4
+[2024-07-15 17:10:15] db_config.php found and included
+[2024-07-15 17:10:15] Account ID fetched: SIGN2870
+[2024-07-15 17:10:15] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-15 17:10:15] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/dist/user-content/SIGN2870/user-videos/669557f7131e6_DIGITAL SIGNAGE TV.mp4
+[2024-07-15 17:10:29] db_config.php found and included
+[2024-07-15 17:10:29] Account ID fetched: SIGN2870
+[2024-07-15 17:10:29] File upload attempt - Type: image, File type: image/png, Size: 3401261
+[2024-07-15 17:10:29] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/dist/user-content/SIGN2870/user-images/6695580583b9e_tv-for-hotel.png
+[2024-07-15 17:13:23] db_config.php found and included
+[2024-07-15 17:13:23] Account ID fetched: SIGN2870
+[2024-07-15 17:13:23] File upload attempt - Type: image, File type: image/jpeg, Size: 32632
+[2024-07-15 17:13:23] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-images/669558b3c2677_Ridaex_TIMELINE  IMAGE.jpeg
+[2024-07-15 17:13:26] db_config.php found and included
+[2024-07-15 17:13:26] Account ID fetched: SIGN2870
+[2024-07-15 17:13:26] File upload attempt - Type: image, File type: image/png, Size: 597103
+[2024-07-15 17:13:26] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-images/669558b6bb4c9_Multiscreen Video Wall For Billing Counters & Restaurants.png
+[2024-07-15 17:13:38] db_config.php found and included
+[2024-07-15 17:13:38] Account ID fetched: SIGN2870
+[2024-07-15 17:13:38] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-15 17:13:38] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/669558c205992_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 07:14:04] db_config.php found and included
+[2024-07-16 07:14:04] User ID: 1, Email: one@ridaex.com
+[2024-07-16 07:14:04] Account ID fetched: SIGN2870
+[2024-07-16 07:14:04] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 07:14:04] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/66961dbcba9e2_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 07:14:54] db_config.php found and included
+[2024-07-16 07:14:54] User ID: 1, Email: one@ridaex.com
+[2024-07-16 07:14:54] Account ID fetched: SIGN2870
+[2024-07-16 07:14:54] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 07:14:54] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/66961dee77d7f_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 07:21:34] db_config.php found and included
+[2024-07-16 07:21:34] User ID: 1, Email: one@ridaex.com
+[2024-07-16 07:21:34] Account ID fetched: SIGN2870
+[2024-07-16 07:21:34] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 07:21:34] File information inserted into database. Last Insert ID: 0
+[2024-07-16 07:21:34] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/66961f7ec4308_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 07:27:15] db_config.php found and included
+[2024-07-16 07:27:15] User ID: 1, Email: one@ridaex.com
+[2024-07-16 07:27:15] Account ID fetched: SIGN2870
+[2024-07-16 07:27:15] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 07:27:15] Executing SQL: INSERT INTO `4.sign_drive` (account_id, content_type, content_location) VALUES (:account_id, :content_type, :content_location)
+[2024-07-16 07:27:15] Params: account_id=SIGN2870, content_type=video, content_location=/home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/669620d39975a_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 07:27:15] Insert successful. Last Insert ID: 0
+[2024-07-16 07:27:15] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/669620d39975a_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 07:28:30] db_config.php found and included
+[2024-07-16 07:28:30] User ID: 1, Email: one@ridaex.com
+[2024-07-16 07:28:30] Account ID fetched: SIGN2870
+[2024-07-16 07:28:30] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 07:28:30] Executing SQL: INSERT INTO `4.sign_drive` (account_id, content_type, content_location) VALUES (:account_id, :content_type, :content_location)
+[2024-07-16 07:28:30] Params: account_id=SIGN2870, content_type=video, content_location=/home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/6696211ecea38_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 07:28:30] Insert successful. Last Insert ID: 0
+[2024-07-16 07:28:30] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/6696211ecea38_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 07:34:11] db_config.php found and included
+[2024-07-16 07:34:11] User ID: 1, Email: one@ridaex.com
+[2024-07-16 07:34:11] Account ID fetched: SIGN2870
+[2024-07-16 07:34:11] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 07:34:11] Executing SQL: INSERT INTO `4.sign_drive` (account_id, content_type, content_location) VALUES (:account_id, :content_type, :content_location)
+[2024-07-16 07:34:11] Params: account_id=SIGN2870, content_type=video, content_location=/home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/669622736563d_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 07:34:11] Insert successful. Rows affected: 1
+[2024-07-16 07:34:11] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/669622736563d_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 07:38:43] db_config.php found and included
+[2024-07-16 07:38:43] User ID: 1, Email: one@ridaex.com
+[2024-07-16 07:38:43] Account ID fetched: SIGN2870
+[2024-07-16 07:38:43] File upload attempt - Type: video, File type: video/mp4, Size: 9340370
+[2024-07-16 07:38:43] Executing SQL: INSERT INTO `4.sign_drive` (account_id, content_type, content_location) VALUES (:account_id, :content_type, :content_location)
+[2024-07-16 07:38:43] Params: account_id=SIGN2870, content_type=video, content_location=/home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/66962383a4bef_20230522_143251 (1).mp4
+[2024-07-16 07:38:43] Insert successful. Rows affected: 1
+[2024-07-16 07:38:43] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-videos/66962383a4bef_20230522_143251 (1).mp4
+[2024-07-16 07:49:51] db_config.php found and included
+[2024-07-16 07:49:51] Account ID fetched: SIGN2870
+[2024-07-16 07:49:51] File upload attempt - Type: image, File type: image/jpeg, Size: 32632
+[2024-07-16 07:49:51] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-images/6696261fbaf66_Ridaex_TIMELINE  IMAGE.jpeg
+[2024-07-16 07:53:27] db_config.php found and included
+[2024-07-16 07:53:27] Account ID fetched: SIGN2870
+[2024-07-16 07:53:27] File upload attempt - Type: image, File type: image/jpeg, Size: 32632
+[2024-07-16 07:53:27] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: image, Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-images/669626f73ea5f_Ridaex_TIMELINE  IMAGE.jpeg
+[2024-07-16 07:53:27] Insertion into 4.sign_drive completed
+[2024-07-16 07:53:27] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-images/669626f73ea5f_Ridaex_TIMELINE  IMAGE.jpeg
+[2024-07-16 07:55:16] db_config.php found and included
+[2024-07-16 07:55:16] Account ID fetched: SIGN2870
+[2024-07-16 07:55:16] File upload attempt - Type: image, File type: image/jpeg, Size: 32632
+[2024-07-16 07:55:16] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: image, Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-images/669627646b12e_Ridaex_TIMELINE  IMAGE.jpeg
+[2024-07-16 07:55:16] Insertion into 4.sign_drive completed
+[2024-07-16 07:55:16] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2870/user-images/669627646b12e_Ridaex_TIMELINE  IMAGE.jpeg
+[2024-07-16 07:56:04] db_config.php found and included
+[2024-07-16 07:56:04] Account ID fetched: SIGN2871
+[2024-07-16 07:56:04] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 07:56:05] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-videos/66962794f37dd_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 07:56:05] Insertion into 4.sign_drive completed
+[2024-07-16 07:56:05] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-videos/66962794f37dd_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 08:08:53] db_config.php found and included
+[2024-07-16 08:08:53] Account ID fetched: SIGN2871
+[2024-07-16 08:08:53] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 08:08:53] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: /user-content/SIGN2871/user-videos/66962a953c677_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 08:08:53] Insertion into 4.sign_drive completed
+[2024-07-16 08:08:53] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-videos/66962a953c677_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 08:10:21] db_config.php found and included
+[2024-07-16 08:10:21] Account ID fetched: SIGN2871
+[2024-07-16 08:10:21] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 08:10:21] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: /user-content/SIGN2871/user-videos/66962aed50a0d_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 08:10:21] Insertion into 4.sign_drive completed
+[2024-07-16 08:10:21] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-videos/66962aed50a0d_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 08:43:27] db_config.php found and included
+[2024-07-16 08:43:27] Account ID fetched: SIGN2871
+[2024-07-16 08:43:27] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 08:43:27] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: /user-content/SIGN2871/user-videos/669632af85283_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 08:43:27] Insertion into 4.sign_drive completed
+[2024-07-16 08:43:27] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-videos/669632af85283_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 08:44:31] db_config.php found and included
+[2024-07-16 08:44:31] Account ID fetched: SIGN2871
+[2024-07-16 08:44:31] File upload attempt - Type: image, File type: image/jpeg, Size: 32632
+[2024-07-16 08:44:31] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: /user-content/SIGN2871/user-images/669632ef3ac9b_Ridaex_TIMELINE  IMAGE.jpeg
+[2024-07-16 08:44:31] Insertion into 4.sign_drive completed
+[2024-07-16 08:44:31] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-images/669632ef3ac9b_Ridaex_TIMELINE  IMAGE.jpeg
+[2024-07-16 08:54:49] db_config.php found and included
+[2024-07-16 08:54:49] Account ID fetched: SIGN2871
+[2024-07-16 08:54:49] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 08:54:49] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: /user-content/SIGN2871/user-videos/66963559a6f47_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 08:54:49] Insertion into 4.sign_drive completed
+[2024-07-16 08:54:49] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-videos/66963559a6f47_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 09:11:05] db_config.php found and included
+[2024-07-16 09:11:05] Account ID fetched: SIGN2871
+[2024-07-16 09:11:05] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 09:11:05] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: /user-content/SIGN2871/user-videos/66963929c79a2_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 09:11:05] Insertion into 4.sign_drive completed
+[2024-07-16 09:11:05] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-videos/66963929c79a2_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 09:16:56] db_config.php found and included
+[2024-07-16 09:16:56] Account ID fetched: SIGN2871
+[2024-07-16 09:16:56] File upload attempt - Type: image, File type: image/png, Size: 597103
+[2024-07-16 09:16:56] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: /user-content/SIGN2871/user-images/66963a88c8792_Multiscreen Video Wall For Billing Counters & Restaurants.png
+[2024-07-16 09:16:56] Insertion into 4.sign_drive completed
+[2024-07-16 09:16:56] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-images/66963a88c8792_Multiscreen Video Wall For Billing Counters & Restaurants.png
+[2024-07-16 09:37:56] db_config.php found and included
+[2024-07-16 09:37:56] Account ID fetched: SIGN2871
+[2024-07-16 09:37:56] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 09:37:56] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: /user-content/SIGN2871/user-videos/66963f7474db7_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 09:37:56] Insertion into 4.sign_drive completed
+[2024-07-16 09:37:56] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-videos/66963f7474db7_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 09:49:08] db_config.php found and included
+[2024-07-16 09:49:08] Account ID fetched: SIGN2871
+[2024-07-16 09:49:08] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 09:49:08] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: /user-content/SIGN2871/user-videos/66964214b761c_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 09:49:08] Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'SIGN2871' for key 'PRIMARY'
+[2024-07-16 09:49:43] db_config.php found and included
+[2024-07-16 09:49:43] Account ID fetched: SIGN2871
+[2024-07-16 09:49:43] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 09:49:43] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: /user-content/SIGN2871/user-videos/6696423779067_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 09:49:43] Insertion into 4.sign_drive completed
+[2024-07-16 09:49:43] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-videos/6696423779067_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 11:43:00] db_config.php found and included
+[2024-07-16 11:43:00] Account ID fetched: SIGN2871
+[2024-07-16 11:43:00] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 11:43:00] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: /user-content/SIGN2871/user-videos/66965cc403509_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 11:43:00] Insertion into 4.sign_drive completed
+[2024-07-16 11:43:00] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-videos/66965cc403509_DIGITAL SIGNAGE TV.mp4
+[2024-07-16 11:43:13] db_config.php found and included
+[2024-07-16 11:43:13] Account ID fetched: SIGN2871
+[2024-07-16 11:43:13] File upload attempt - Type: image, File type: image/png, Size: 597103
+[2024-07-16 11:43:13] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: /user-content/SIGN2871/user-images/66965cd1678ee_Multiscreen Video Wall For Billing Counters & Restaurants.png
+[2024-07-16 11:43:13] Insertion into 4.sign_drive completed
+[2024-07-16 11:43:13] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-images/66965cd1678ee_Multiscreen Video Wall For Billing Counters & Restaurants.png
+[2024-07-16 12:07:02] db_config.php found and included
+[2024-07-16 12:07:02] Account ID fetched: SIGN2871
+[2024-07-16 12:07:02] File upload attempt - Type: image, File type: image/jpeg, Size: 32632
+[2024-07-16 12:07:02] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: /user-content/SIGN2871/user-images/669662662f8a4_Ridaex_TIMELINE  IMAGE.jpeg
+[2024-07-16 12:07:02] Insertion into 4.sign_drive completed
+[2024-07-16 12:07:02] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/host/dist/user-content/SIGN2871/user-images/669662662f8a4_Ridaex_TIMELINE  IMAGE.jpeg
+[2024-07-16 12:07:39] db_config.php found and included
+[2024-07-16 12:07:39] Account ID fetched: SIGN2871
+[2024-07-16 12:07:39] File upload attempt - Type: image, File type: image/jpeg, Size: 32632
+[2024-07-16 12:07:39] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: /user-content/SIGN2871/user-images/6696628bb0c85_Ridaex_TIMELINE  IMAGE.jpeg
+[2024-07-16 12:07:39] Insertion into 4.sign_drive completed
+[2024-07-16 12:07:39] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/host/dist/user-content/SIGN2871/user-images/6696628bb0c85_Ridaex_TIMELINE  IMAGE.jpeg
+[2024-07-16 12:15:01] db_config.php found and included
+[2024-07-16 12:15:01] Account ID fetched: SIGN2871
+[2024-07-16 12:15:01] File upload attempt - Type: image, File type: image/jpeg, Size: 32632
+[2024-07-16 12:15:01] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: /user-content/SIGN2871/user-images/66966445423b6_Ridaex_TIMELINE  IMAGE.jpeg
+[2024-07-16 12:15:01] Insertion into 4.sign_drive completed
+[2024-07-16 12:15:01] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-images/66966445423b6_Ridaex_TIMELINE  IMAGE.jpeg
+[2024-07-16 12:22:47] db_config.php found and included
+[2024-07-16 12:22:47] Account ID fetched: SIGN2871
+[2024-07-16 12:22:47] File upload attempt - Type: image, File type: image/jpeg, Size: 32632
+[2024-07-16 12:22:47] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: /user-content/SIGN2871/user-images/6696661708834_Ridaex_TIMELINEIMAGE.jpeg
+[2024-07-16 12:22:47] Insertion into 4.sign_drive completed
+[2024-07-16 12:22:47] File uploaded successfully - Path: /home/u740693683/domains/signager.cloud/public_html/host/dist/user-content/SIGN2871/user-images/6696661708834_Ridaex_TIMELINEIMAGE.jpeg
+[2024-07-16 12:40:19] db_config.php found and included
+[2024-07-16 12:40:19] Account ID fetched: SIGN2871
+[2024-07-16 12:40:19] File upload attempt - Type: image, File type: image/jpeg, Size: 32632
+[2024-07-16 12:40:19] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: https://www.signager.cloud/user-content/SIGN2871/user-images/66966a3355a2b_Ridaex_TIMELINEIMAGE.jpeg
+[2024-07-16 12:40:19] Insertion into 4.sign_drive completed
+[2024-07-16 12:40:19] File uploaded successfully - Path: https://www.signager.cloud/user-content/SIGN2871/user-images/66966a3355a2b_Ridaex_TIMELINEIMAGE.jpeg
+[2024-07-16 12:41:12] db_config.php found and included
+[2024-07-16 12:41:12] Account ID fetched: SIGN2871
+[2024-07-16 12:41:12] File upload attempt - Type: image, File type: image/jpeg, Size: 32632
+[2024-07-16 12:41:12] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66966a6856ec4_Ridaex_TIMELINEIMAGE.jpeg
+[2024-07-16 12:41:12] Insertion into 4.sign_drive completed
+[2024-07-16 12:41:12] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66966a6856ec4_Ridaex_TIMELINEIMAGE.jpeg
+[2024-07-16 12:41:32] db_config.php found and included
+[2024-07-16 12:41:32] Account ID fetched: SIGN2871
+[2024-07-16 12:41:32] File upload attempt - Type: image, File type: image/png, Size: 178059
+[2024-07-16 12:41:32] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66966a7c1dfdc_WhatsApp_Image_2024-07-10_at_12.03.59_600x560-removebg-preview.png
+[2024-07-16 12:41:32] Insertion into 4.sign_drive completed
+[2024-07-16 12:41:32] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66966a7c1dfdc_WhatsApp_Image_2024-07-10_at_12.03.59_600x560-removebg-preview.png
+[2024-07-16 12:42:16] db_config.php found and included
+[2024-07-16 12:42:16] Account ID fetched: SIGN2871
+[2024-07-16 12:42:16] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 12:42:16] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66966aa8d9bd0_DIGITALSIGNAGETV.mp4
+[2024-07-16 12:42:16] Insertion into 4.sign_drive completed
+[2024-07-16 12:42:16] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66966aa8d9bd0_DIGITALSIGNAGETV.mp4
+[2024-07-16 12:44:29] db_config.php found and included
+[2024-07-16 12:44:29] Account ID fetched: SIGN2871
+[2024-07-16 12:44:29] File upload attempt - Type: video, File type: video/mp4, Size: 4255954
+[2024-07-16 12:44:29] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66966b2dc05b2_DIGITALSIGNAGETV.mp4
+[2024-07-16 12:44:29] Insertion into 4.sign_drive completed
+[2024-07-16 12:44:29] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66966b2dc05b2_DIGITALSIGNAGETV.mp4
+[2024-07-16 12:44:37] db_config.php found and included
+[2024-07-16 12:44:37] Account ID fetched: SIGN2871
+[2024-07-16 12:44:37] File upload attempt - Type: image, File type: image/png, Size: 597103
+[2024-07-16 12:44:37] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66966b359198a_MultiscreenVideoWallForBillingCounters&Restaurants.png
+[2024-07-16 12:44:37] Insertion into 4.sign_drive completed
+[2024-07-16 12:44:37] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66966b359198a_MultiscreenVideoWallForBillingCounters&Restaurants.png
+[2024-07-16 12:46:20] db_config.php found and included
+[2024-07-16 12:46:20] Account ID fetched: SIGN2870
+[2024-07-16 12:46:20] File upload attempt - Type: video, File type: video/mp4, Size: 9340370
+[2024-07-16 12:46:20] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-videos/66966b9cbff5b_20230522_143251(1).mp4
+[2024-07-16 12:46:20] Insertion into 4.sign_drive completed
+[2024-07-16 12:46:20] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-videos/66966b9cbff5b_20230522_143251(1).mp4
+[2024-07-16 12:46:27] db_config.php found and included
+[2024-07-16 12:46:27] Account ID fetched: SIGN2870
+[2024-07-16 12:46:27] File upload attempt - Type: image, File type: image/jpeg, Size: 66441
+[2024-07-16 12:46:27] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966ba37a346_1651894452849.jpeg
+[2024-07-16 12:46:27] Insertion into 4.sign_drive completed
+[2024-07-16 12:46:27] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966ba37a346_1651894452849.jpeg
+[2024-07-16 12:48:48] db_config.php found and included
+[2024-07-16 12:48:48] Account ID fetched: SIGN2870
+[2024-07-16 12:48:48] File upload attempt - Type: video, File type: video/mp4, Size: 61875667
+[2024-07-16 12:48:49] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-videos/66966c30ecab5_kರಾಗುಟ್ಟಹಳ್ಳಿಎರಡುಗುಂಪುಗಳನಡುವೆಮಾರಾಮಾರಿಹಲವರಿಗೆಗಾಯದೂರುಪ್ರತಿದೂರು.mp4
+[2024-07-16 12:48:49] Insertion into 4.sign_drive completed
+[2024-07-16 12:48:49] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-videos/66966c30ecab5_kರಾಗುಟ್ಟಹಳ್ಳಿಎರಡುಗುಂಪುಗಳನಡುವೆಮಾರಾಮಾರಿಹಲವರಿಗೆಗಾಯದೂರುಪ್ರತಿದೂರು.mp4
+[2024-07-16 12:49:00] db_config.php found and included
+[2024-07-16 12:49:00] Account ID fetched: SIGN2870
+[2024-07-16 12:49:00] File upload attempt - Type: image, File type: image/png, Size: 853622
+[2024-07-16 12:49:00] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c3c94bac_Screenshot2024-07-01at1.10.34 PM.png
+[2024-07-16 12:49:00] Insertion into 4.sign_drive completed
+[2024-07-16 12:49:00] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c3c94bac_Screenshot2024-07-01at1.10.34 PM.png
+[2024-07-16 12:49:14] db_config.php found and included
+[2024-07-16 12:49:14] Account ID fetched: SIGN2870
+[2024-07-16 12:49:14] File upload attempt - Type: image, File type: image/jpeg, Size: 32632
+[2024-07-16 12:49:14] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c4ae2790_Ridaex_TIMELINEIMAGE.jpeg
+[2024-07-16 12:49:14] Insertion into 4.sign_drive completed
+[2024-07-16 12:49:14] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c4ae2790_Ridaex_TIMELINEIMAGE.jpeg
+[2024-07-16 12:49:22] db_config.php found and included
+[2024-07-16 12:49:22] Account ID fetched: SIGN2870
+[2024-07-16 12:49:22] Error: Invalid request method or missing file.
+[2024-07-16 12:49:31] db_config.php found and included
+[2024-07-16 12:49:31] Account ID fetched: SIGN2870
+[2024-07-16 12:49:31] File upload attempt - Type: image, File type: image/png, Size: 129720
+[2024-07-16 12:49:31] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c5b84f96_color-meanings-infographic.png
+[2024-07-16 12:49:31] Insertion into 4.sign_drive completed
+[2024-07-16 12:49:31] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c5b84f96_color-meanings-infographic.png
+[2024-07-16 12:49:42] db_config.php found and included
+[2024-07-16 12:49:42] Account ID fetched: SIGN2870
+[2024-07-16 12:49:42] File upload attempt - Type: image, File type: image/png, Size: 1470982
+[2024-07-16 12:49:42] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c665f9f1_RidaexReviews.png
+[2024-07-16 12:49:42] Insertion into 4.sign_drive completed
+[2024-07-16 12:49:42] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966c665f9f1_RidaexReviews.png
+[2024-07-16 12:50:25] db_config.php found and included
+[2024-07-16 12:50:25] Account ID fetched: SIGN2870
+[2024-07-16 12:50:25] File upload attempt - Type: video, File type: video/mp4, Size: 41930290
+[2024-07-16 12:50:25] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-videos/66966c9196de2_1.IDLI.mp4
+[2024-07-16 12:50:25] Insertion into 4.sign_drive completed
+[2024-07-16 12:50:25] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-videos/66966c9196de2_1.IDLI.mp4
+[2024-07-16 12:50:30] db_config.php found and included
+[2024-07-16 12:50:30] Account ID fetched: SIGN2870
+[2024-07-16 12:50:30] File upload attempt - Type: video, File type: video/mp4, Size: 48285411
+[2024-07-16 12:50:30] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-videos/66966c96356f7_2.IDLI.mp4
+[2024-07-16 12:50:30] Insertion into 4.sign_drive completed
+[2024-07-16 12:50:30] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-videos/66966c96356f7_2.IDLI.mp4
+[2024-07-16 12:57:31] db_config.php found and included
+[2024-07-16 12:57:31] Account ID fetched: SIGN2870
+[2024-07-16 12:57:31] File upload attempt - Type: image, File type: image/png, Size: 703150
+[2024-07-16 12:57:31] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966e3b6cbae_Screenshot2024-07-06at5.32.51 PM.png
+[2024-07-16 12:57:31] Insertion into 4.sign_drive completed
+[2024-07-16 12:57:31] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966e3b6cbae_Screenshot2024-07-06at5.32.51 PM.png
+[2024-07-16 12:57:40] db_config.php found and included
+[2024-07-16 12:57:40] Account ID fetched: SIGN2870
+[2024-07-16 12:57:40] File upload attempt - Type: image, File type: image/png, Size: 597103
+[2024-07-16 12:57:40] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966e44bc861_MultiscreenVideoWallForBillingCounters&Restaurants.png
+[2024-07-16 12:57:40] Insertion into 4.sign_drive completed
+[2024-07-16 12:57:40] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66966e44bc861_MultiscreenVideoWallForBillingCounters&Restaurants.png
+[2024-07-16 12:57:59] db_config.php found and included
+[2024-07-16 12:57:59] Account ID fetched: SIGN2870
+[2024-07-16 12:57:59] File upload attempt - Type: video, File type: video/mp4, Size: 29127152
+[2024-07-16 12:57:59] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-videos/66966e57af70e_FInalHotelvideo.mp4
+[2024-07-16 12:57:59] Insertion into 4.sign_drive completed
+[2024-07-16 12:57:59] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-videos/66966e57af70e_FInalHotelvideo.mp4
+[2024-07-16 16:07:46] db_config.php found and included
+[2024-07-16 16:07:46] Account ID fetched: SIGN2870
+[2024-07-16 16:07:46] File upload attempt - Type: image, File type: image/png, Size: 990490
+[2024-07-16 16:07:46] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66969ad26ea95_Screenshot2024-05-24at12.34.08 PM.png
+[2024-07-16 16:07:46] Insertion into 4.sign_drive completed
+[2024-07-16 16:07:46] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66969ad26ea95_Screenshot2024-05-24at12.34.08 PM.png
+[2024-07-17 07:08:20] db_config.php found and included
+[2024-07-17 07:08:20] Account ID fetched: SIGN2870
+[2024-07-17 07:08:20] File upload attempt - Type: image, File type: image/png, Size: 2427981
+[2024-07-17 07:08:20] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66976de4a7b5c_Screenshot2024-03-30at4.28.11PM.png
+[2024-07-17 07:08:20] Insertion into 4.sign_drive completed
+[2024-07-17 07:08:20] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/66976de4a7b5c_Screenshot2024-03-30at4.28.11PM.png
+[2024-07-17 12:03:02] db_config.php found and included
+[2024-07-17 12:03:02] Account ID fetched: SIGN2870
+[2024-07-17 12:03:02] File upload attempt - Type: image, File type: image/jpeg, Size: 4421445
+[2024-07-17 12:03:02] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/6697b2f6baa1f_MCB-RICEBATHEngxKan.jpg
+[2024-07-17 12:03:02] Insertion into 4.sign_drive completed
+[2024-07-17 12:03:02] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/6697b2f6baa1f_MCB-RICEBATHEngxKan.jpg
+[2024-07-17 12:03:24] db_config.php found and included
+[2024-07-17 12:03:24] Account ID fetched: SIGN2870
+[2024-07-17 12:03:24] File upload attempt - Type: image, File type: image/png, Size: 626422
+[2024-07-17 12:03:24] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/6697b30c450d6_rajeshraoimage.png
+[2024-07-17 12:03:24] Insertion into 4.sign_drive completed
+[2024-07-17 12:03:24] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-images/6697b30c450d6_rajeshraoimage.png
+[2024-07-23 09:01:21] db_config.php found and included
+[2024-07-23 09:01:21] Account ID fetched: SIGN2871
+[2024-07-23 09:01:21] File upload attempt - Type: video, File type: video/mp4, Size: 351321
+[2024-07-23 09:01:21] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/669f71611f60d_Untitleddesign(3).mp4
+[2024-07-23 09:01:21] Insertion into 4.sign_drive completed
+[2024-07-23 09:01:21] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/669f71611f60d_Untitleddesign(3).mp4
+[2024-07-23 09:01:27] db_config.php found and included
+[2024-07-23 09:01:27] Account ID fetched: SIGN2871
+[2024-07-23 09:01:27] File upload attempt - Type: video, File type: video/mp4, Size: 5945110
+[2024-07-23 09:01:27] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/669f7167493bf_WhatsAppVideo2024-07-22at16.44.35.mp4
+[2024-07-23 09:01:27] Insertion into 4.sign_drive completed
+[2024-07-23 09:01:27] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/669f7167493bf_WhatsAppVideo2024-07-22at16.44.35.mp4
+[2024-07-23 09:01:51] db_config.php found and included
+[2024-07-23 09:01:51] Account ID fetched: SIGN2871
+[2024-07-23 09:01:51] File upload attempt - Type: image, File type: image/png, Size: 129720
+[2024-07-23 09:01:51] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/669f717f6f8e5_color-meanings-infographic.png
+[2024-07-23 09:01:51] Insertion into 4.sign_drive completed
+[2024-07-23 09:01:51] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/669f717f6f8e5_color-meanings-infographic.png
+[2024-07-29 11:50:16] db_config.php found and included
+[2024-07-29 11:50:16] Account ID fetched: SIGN2872
+[2024-07-29 11:50:16] File upload attempt - Type: video, File type: video/mp4, Size: 3314761
+[2024-07-29 11:50:16] Attempting to insert into 4.sign_drive - Account ID: SIGN2872, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2872/user-videos/66a781f815aba_IntroducingFerreroMomentsMousse.mp4
+[2024-07-29 11:50:16] Insertion into 4.sign_drive completed
+[2024-07-29 11:50:16] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2872/user-videos/66a781f815aba_IntroducingFerreroMomentsMousse.mp4
+[2024-07-29 11:50:23] db_config.php found and included
+[2024-07-29 11:50:23] Account ID fetched: SIGN2872
+[2024-07-29 11:50:23] File upload attempt - Type: video, File type: video/mp4, Size: 3258817
+[2024-07-29 11:50:23] Attempting to insert into 4.sign_drive - Account ID: SIGN2872, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2872/user-videos/66a781ffefd6d_IntroducingNutellaSlabSundae.mp4
+[2024-07-29 11:50:23] Insertion into 4.sign_drive completed
+[2024-07-29 11:50:23] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2872/user-videos/66a781ffefd6d_IntroducingNutellaSlabSundae.mp4
+[2024-07-29 11:50:31] db_config.php found and included
+[2024-07-29 11:50:31] Account ID fetched: SIGN2872
+[2024-07-29 11:50:31] File upload attempt - Type: image, File type: image/png, Size: 3401261
+[2024-07-29 11:50:31] Attempting to insert into 4.sign_drive - Account ID: SIGN2872, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2872/user-images/66a78207d3573_tv-for-hotel.png
+[2024-07-29 11:50:31] Insertion into 4.sign_drive completed
+[2024-07-29 11:50:31] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2872/user-images/66a78207d3573_tv-for-hotel.png
+[2024-07-29 11:50:37] db_config.php found and included
+[2024-07-29 11:50:37] Account ID fetched: SIGN2872
+[2024-07-29 11:50:37] File upload attempt - Type: image, File type: image/png, Size: 597103
+[2024-07-29 11:50:37] Attempting to insert into 4.sign_drive - Account ID: SIGN2872, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2872/user-images/66a7820dd0041_MultiscreenVideoWallForBillingCounters&Restaurants.png
+[2024-07-29 11:50:37] Insertion into 4.sign_drive completed
+[2024-07-29 11:50:37] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2872/user-images/66a7820dd0041_MultiscreenVideoWallForBillingCounters&Restaurants.png
+[2024-07-30 10:44:10] db_config.php found and included
+[2024-07-30 10:44:10] Account ID fetched: SIGN2871
+[2024-07-30 10:44:10] File upload attempt - Type: video, File type: video/mp4, Size: 351321
+[2024-07-30 10:44:10] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66a8c3fab2561_Untitleddesign(3).mp4
+[2024-07-30 10:44:10] Insertion into 4.sign_drive completed
+[2024-07-30 10:44:10] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66a8c3fab2561_Untitleddesign(3).mp4
+[2024-07-30 10:44:13] db_config.php found and included
+[2024-07-30 10:44:13] Account ID fetched: SIGN2871
+[2024-07-30 10:44:13] File upload attempt - Type: video, File type: video/mp4, Size: 5945110
+[2024-07-30 10:44:13] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66a8c3fd6f33f_WhatsAppVideo2024-07-22at16.44.35.mp4
+[2024-07-30 10:44:13] Insertion into 4.sign_drive completed
+[2024-07-30 10:44:13] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66a8c3fd6f33f_WhatsAppVideo2024-07-22at16.44.35.mp4
+[2024-07-30 15:27:41] db_config.php found and included
+[2024-07-30 15:27:41] Account ID fetched: SIGN2870
+[2024-07-30 15:27:41] File upload attempt - Type: video, File type: video/mp4, Size: 5945110
+[2024-07-30 15:27:41] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-videos/66a9066d66400_WhatsAppVideo2024-07-22at16.44.35.mp4
+[2024-07-30 15:27:41] Insertion into 4.sign_drive completed
+[2024-07-30 15:27:41] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-videos/66a9066d66400_WhatsAppVideo2024-07-22at16.44.35.mp4
+[2024-07-30 15:27:42] db_config.php found and included
+[2024-07-30 15:27:42] Account ID fetched: SIGN2870
+[2024-07-30 15:27:42] File upload attempt - Type: video, File type: video/mp4, Size: 351321
+[2024-07-30 15:27:42] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-videos/66a9066ec517a_Untitleddesign(3).mp4
+[2024-07-30 15:27:42] Insertion into 4.sign_drive completed
+[2024-07-30 15:27:42] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-videos/66a9066ec517a_Untitleddesign(3).mp4
+[2024-08-04 06:16:35] db_config.php found and included
+[2024-08-04 06:16:35] Account ID fetched: SIGN2870
+[2024-08-04 06:16:35] File upload attempt - Type: video, File type: video/mp4, Size: 3258817
+[2024-08-04 06:16:35] Attempting to insert into 4.sign_drive - Account ID: SIGN2870, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-videos/66af1cc3ee7e6_IntroducingNutellaSlabSundae.mp4
+[2024-08-04 06:16:35] Insertion into 4.sign_drive completed
+[2024-08-04 06:16:35] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2870/user-videos/66af1cc3ee7e6_IntroducingNutellaSlabSundae.mp4
+[2024-08-12 12:59:50] db_config.php found and included
+[2024-08-12 12:59:50] Account ID fetched: SIGN2873
+[2024-08-12 12:59:50] File upload attempt - Type: image, File type: image/jpeg, Size: 670974
+[2024-08-12 12:59:50] Attempting to insert into 4.sign_drive - Account ID: SIGN2873, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2873/user-images/66ba0746d8eb4_XinDenbyMindscape.jpg
+[2024-08-12 12:59:50] Insertion into 4.sign_drive completed
+[2024-08-12 12:59:50] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2873/user-images/66ba0746d8eb4_XinDenbyMindscape.jpg
+[2024-08-12 13:00:56] db_config.php found and included
+[2024-08-12 13:00:56] Account ID fetched: SIGN2873
+[2024-08-12 13:00:56] File upload attempt - Type: image, File type: image/jpeg, Size: 610058
+[2024-08-12 13:00:56] Attempting to insert into 4.sign_drive - Account ID: SIGN2873, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2873/user-images/66ba0788a523f_PolarBear2.jpg
+[2024-08-12 13:00:56] Insertion into 4.sign_drive completed
+[2024-08-12 13:00:56] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2873/user-images/66ba0788a523f_PolarBear2.jpg
+[2024-08-12 13:12:10] db_config.php found and included
+[2024-08-12 13:12:10] Account ID fetched: SIGN2873
+[2024-08-12 13:12:10] File upload attempt - Type: video, File type: video/mp4, Size: 342217153
+[2024-08-12 13:12:10] Error: File size exceeds the limit.
+[2024-08-12 13:13:19] db_config.php found and included
+[2024-08-12 13:13:19] Account ID fetched: SIGN2873
+[2024-08-12 13:13:19] File upload attempt - Type: video, File type: video/mp4, Size: 67379816
+[2024-08-12 13:13:19] Attempting to insert into 4.sign_drive - Account ID: SIGN2873, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2873/user-videos/66ba0a6f0e326_C5156.MP4
+[2024-08-12 13:13:19] Insertion into 4.sign_drive completed
+[2024-08-12 13:13:19] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2873/user-videos/66ba0a6f0e326_C5156.MP4
+[2024-08-13 07:18:00] db_config.php found and included
+[2024-08-13 07:18:00] Account ID fetched: SIGN2871
+[2024-08-13 07:18:00] File upload attempt - Type: video, File type: video/mp4, Size: 1584202
+[2024-08-13 07:18:00] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66bb08a8b261b_VirinchiScreen4.mp4
+[2024-08-13 07:18:00] Insertion into 4.sign_drive completed
+[2024-08-13 07:18:00] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66bb08a8b261b_VirinchiScreen4.mp4
+[2024-08-13 12:26:41] db_config.php found and included
+[2024-08-13 12:26:41] Account ID fetched: SIGN2871
+[2024-08-13 12:26:41] File upload attempt - Type: video, File type: video/mp4, Size: 1584202
+[2024-08-13 12:26:41] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66bb51016a54e_VirinchiScreen4.mp4
+[2024-08-13 12:26:41] Insertion into 4.sign_drive completed
+[2024-08-13 12:26:41] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66bb51016a54e_VirinchiScreen4.mp4
+[2024-08-13 12:26:48] db_config.php found and included
+[2024-08-13 12:26:48] Account ID fetched: SIGN2871
+[2024-08-13 12:26:48] File upload attempt - Type: video, File type: video/mp4, Size: 3258817
+[2024-08-13 12:26:48] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66bb5108a755d_IntroducingNutellaSlabSundae.mp4
+[2024-08-13 12:26:48] Insertion into 4.sign_drive completed
+[2024-08-13 12:26:48] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66bb5108a755d_IntroducingNutellaSlabSundae.mp4
+[2024-08-13 12:26:52] db_config.php found and included
+[2024-08-13 12:26:52] Account ID fetched: SIGN2871
+[2024-08-13 12:26:52] File upload attempt - Type: image, File type: image/png, Size: 4335717
+[2024-08-13 12:26:52] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66bb510c9204a_Screenshot2024-07-01at12.45.32 PM.png
+[2024-08-13 12:26:52] Insertion into 4.sign_drive completed
+[2024-08-13 12:26:52] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66bb510c9204a_Screenshot2024-07-01at12.45.32 PM.png
+[2024-08-13 12:27:18] db_config.php found and included
+[2024-08-13 12:27:18] Account ID fetched: SIGN2871
+[2024-08-13 12:27:18] File upload attempt - Type: video, File type: video/mp4, Size: 29127152
+[2024-08-13 12:27:18] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66bb5126193dc_FInalHotelvideo.mp4
+[2024-08-13 12:27:18] Insertion into 4.sign_drive completed
+[2024-08-13 12:27:18] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66bb5126193dc_FInalHotelvideo.mp4
+[2024-08-21 07:38:26] db_config.php found and included
+[2024-08-21 07:38:26] Account ID fetched: SIGN2871
+[2024-08-21 07:38:26] File upload attempt - Type: video, File type: video/mp4, Size: 5945110
+[2024-08-21 07:38:26] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: video, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66c59972079ee_WhatsAppVideo2024-07-22at16.44.35.mp4
+[2024-08-21 07:38:26] Insertion into 4.sign_drive completed
+[2024-08-21 07:38:26] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-videos/66c59972079ee_WhatsAppVideo2024-07-22at16.44.35.mp4
+[2024-08-26 09:33:16] db_config.php found and included
+[2024-08-26 09:33:16] Account ID fetched: SIGN2871
+[2024-08-26 09:33:16] File upload attempt - Type: image, File type: image/png, Size: 2060528
+[2024-08-26 09:33:16] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66cc4bdc4f53a_Screenshot2024-01-14at11.49.32AM.png
+[2024-08-26 09:33:16] Insertion into 4.sign_drive completed
+[2024-08-26 09:33:16] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66cc4bdc4f53a_Screenshot2024-01-14at11.49.32AM.png
+[2024-09-17 07:33:43] db_config.php found and included
+[2024-09-17 07:33:43] Account ID fetched: SIGN2871
+[2024-09-17 07:33:43] File upload attempt - Type: image, File type: image/png, Size: 853622
+[2024-09-17 07:33:43] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66e930d73b2b7_Screenshot2024-07-01at1.10.34 PM.png
+[2024-09-17 07:33:43] Insertion into 4.sign_drive completed
+[2024-09-17 07:33:43] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66e930d73b2b7_Screenshot2024-07-01at1.10.34 PM.png
+[2024-09-18 05:37:18] db_config.php found and included
+[2024-09-18 05:37:18] Account ID fetched: SIGN2871
+[2024-09-18 05:37:18] File upload attempt - Type: image, File type: image/png, Size: 136645
+[2024-09-18 05:37:18] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66ea670e85741_naveensrinivas.png
+[2024-09-18 05:37:18] Insertion into 4.sign_drive completed
+[2024-09-18 05:37:18] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66ea670e85741_naveensrinivas.png
+[2024-09-18 05:37:23] db_config.php found and included
+[2024-09-18 05:37:23] Account ID fetched: SIGN2871
+[2024-09-18 05:37:23] File upload attempt - Type: image, File type: image/jpeg, Size: 95903
+[2024-09-18 05:37:23] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66ea67134be8c_1.jpg
+[2024-09-18 05:37:23] Insertion into 4.sign_drive completed
+[2024-09-18 05:37:23] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66ea67134be8c_1.jpg

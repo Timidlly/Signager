@@ -1,0 +1,664 @@
+[2024-07-13 09:57:16] Connected to database successfully.
+[2024-07-13 09:57:16] Retrieved screen_account_id: SIGN2875 for user_id: 15
+[2024-07-13 09:57:16] New screen_group_id: 246871
+[2024-07-13 09:57:16] Executed INSERT query. Rows affected: 1
+[2024-07-13 09:57:16] New group created - ID: 246871, Name: Diwakar, Account ID: SIGN2875
+[2024-07-14 05:51:49] Connected to database successfully.
+[2024-07-14 05:51:49] Retrieved screen_account_id: SIGN2875 for user_id: 15
+[2024-07-14 05:51:49] New screen_group_id: 246872
+[2024-07-14 05:51:49] Executed INSERT query. Rows affected: 1
+[2024-07-14 05:51:49] New group created - ID: 246872, Name: Diwakar, Account ID: SIGN2875
+[2024-07-14 05:54:29] Connected to database successfully.
+[2024-07-14 05:54:29] Retrieved screen_account_id: SIGN2875 for user_id: 15
+[2024-07-14 05:54:29] New screen_group_id: 246873
+[2024-07-14 05:54:29] Executed INSERT query. Rows affected: 1
+[2024-07-14 05:54:29] New group created - ID: 246873, Name: Saharsh, Account ID: SIGN2875
+[2024-07-14 06:06:29] Connected to database successfully.
+[2024-07-14 06:06:29] Retrieved screen_account_id: SIGN2875 for user_id: 15
+[2024-07-14 06:06:29] New screen_group_id: 246874
+[2024-07-14 06:06:29] Executed INSERT query. Rows affected: 1
+[2024-07-14 06:06:29] New group created - ID: 246874, Name: Vivan Raj, Account ID: SIGN2875
+[2024-07-14 06:09:28] Connected to database successfully.
+[2024-07-14 06:09:28] Retrieved screen_account_id: SIGN2875 for user_id: 15
+[2024-07-14 06:09:28] New screen_group_id: 246875
+[2024-07-14 06:09:28] Executed INSERT query. Rows affected: 1
+[2024-07-14 06:09:28] New group created - ID: 246875, Name: Vinutha Akka, Account ID: SIGN2875
+[2024-07-14 06:16:31] Connected to database successfully.
+[2024-07-14 06:16:31] Current database: u740693683_signager
+[2024-07-14 06:16:31] Table exists: Yes
+[2024-07-14 06:16:31] Autocommit status: Enabled
+[2024-07-14 06:16:31] Retrieved screen_account_id: SIGN2875 for user_id: 15
+[2024-07-14 06:16:31] New screen_group_id: 246876
+[2024-07-14 06:16:31] Executed INSERT query. Rows affected: 1
+[2024-07-14 06:16:31] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-14 06:16:31] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246876
+    [screen_group_name] => Chandrika
+    [screen_account_id] => SIGN2875
+    [screen_group_status] => 
+)
+
+[2024-07-14 06:16:31] New group created - ID: 246876, Name: Chandrika, Account ID: SIGN2875
+[2024-07-14 06:48:40] Connected to database successfully.
+[2024-07-14 06:48:40] Current database: u740693683_signager
+[2024-07-14 06:48:40] Table exists: Yes
+[2024-07-14 06:48:40] Autocommit status: Enabled
+[2024-07-14 06:48:40] Retrieved screen_account_id: SIGN2875 for user_id: 15
+[2024-07-14 06:48:40] New screen_group_id: 246877
+[2024-07-14 06:48:40] Executed INSERT query. Rows affected: 1
+[2024-07-14 06:48:40] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-14 06:48:40] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246877
+    [screen_group_name] => KONDAPPA
+    [screen_account_id] => SIGN2875
+    [screen_group_status] => 
+)
+
+[2024-07-14 06:48:40] New group created - ID: 246877, Name: KONDAPPA, Account ID: SIGN2875
+[2024-07-14 06:48:50] Connected to database successfully.
+[2024-07-14 06:48:50] Current database: u740693683_signager
+[2024-07-14 06:48:50] Table exists: Yes
+[2024-07-14 06:48:50] Autocommit status: Enabled
+[2024-07-14 06:48:50] Retrieved screen_account_id: SIGN2875 for user_id: 15
+[2024-07-14 06:48:50] New screen_group_id: 246878
+[2024-07-14 06:48:50] Executed INSERT query. Rows affected: 1
+[2024-07-14 06:48:50] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-14 06:48:50] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246878
+    [screen_group_name] => Bhuvan
+    [screen_account_id] => SIGN2875
+    [screen_group_status] => 
+)
+
+[2024-07-14 06:48:50] New group created - ID: 246878, Name: Bhuvan, Account ID: SIGN2875
+[2024-07-14 07:00:35] Connected to database successfully.
+[2024-07-14 07:00:35] Current database: u740693683_signager
+[2024-07-14 07:00:35] Table exists: Yes
+[2024-07-14 07:00:35] Autocommit status: Enabled
+[2024-07-14 07:00:35] Retrieved screen_account_id: SIGN2875 for user_id: 15
+[2024-07-14 07:00:35] New screen_group_id: 246879
+[2024-07-14 07:00:35] Executed INSERT query. Rows affected: 1
+[2024-07-14 07:00:35] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-14 07:00:35] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246879
+    [screen_group_name] => Navya
+    [screen_account_id] => SIGN2875
+    [screen_group_status] => 
+)
+
+[2024-07-14 07:00:35] New group created - ID: 246879, Name: Navya, Account ID: SIGN2875
+[2024-07-14 07:01:02] Connected to database successfully.
+[2024-07-14 07:01:02] Current database: u740693683_signager
+[2024-07-14 07:01:02] Table exists: Yes
+[2024-07-14 07:01:02] Autocommit status: Enabled
+[2024-07-14 07:01:02] Retrieved screen_account_id: SIGN2875 for user_id: 15
+[2024-07-14 07:01:02] New screen_group_id: 246880
+[2024-07-14 07:01:02] Executed INSERT query. Rows affected: 1
+[2024-07-14 07:01:02] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-14 07:01:02] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246880
+    [screen_group_name] => kARTHIK
+    [screen_account_id] => SIGN2875
+    [screen_group_status] => 
+)
+
+[2024-07-14 07:01:02] New group created - ID: 246880, Name: kARTHIK, Account ID: SIGN2875
+[2024-07-14 07:41:06] Connected to database successfully.
+[2024-07-14 07:41:06] Current database: u740693683_signager
+[2024-07-14 07:41:06] Table exists: Yes
+[2024-07-14 07:41:06] Autocommit status: Enabled
+[2024-07-14 07:41:06] Retrieved screen_account_id: SIGN2875 for user_id: 15
+[2024-07-14 07:41:06] New screen_group_id: 246881
+[2024-07-14 07:41:06] Executed INSERT query. Rows affected: 1
+[2024-07-14 07:41:06] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-14 07:41:06] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246881
+    [screen_group_name] => Chandan
+    [screen_account_id] => SIGN2875
+    [screen_group_status] => 
+)
+
+[2024-07-14 07:41:06] New group created - ID: 246881, Name: Chandan, Account ID: SIGN2875
+[2024-07-14 07:42:10] Connected to database successfully.
+[2024-07-14 07:42:10] Current database: u740693683_signager
+[2024-07-14 07:42:10] Table exists: Yes
+[2024-07-14 07:42:10] Autocommit status: Enabled
+[2024-07-14 07:42:10] Retrieved screen_account_id: SIGN2875 for user_id: 15
+[2024-07-14 07:42:10] New screen_group_id: 246882
+[2024-07-14 07:42:10] Executed INSERT query. Rows affected: 1
+[2024-07-14 07:42:10] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-14 07:42:10] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246882
+    [screen_group_name] => Uppi
+    [screen_account_id] => SIGN2875
+    [screen_group_status] => 
+)
+
+[2024-07-14 07:42:10] New group created - ID: 246882, Name: Uppi, Account ID: SIGN2875
+[2024-07-14 08:01:23] Connected to database successfully.
+[2024-07-14 08:01:23] Current database: u740693683_signager
+[2024-07-14 08:01:23] Table exists: Yes
+[2024-07-14 08:01:23] Autocommit status: Enabled
+[2024-07-14 08:01:23] Retrieved screen_account_id: SIGN2875 for user_id: 15
+[2024-07-14 08:01:23] New screen_group_id: 246882
+[2024-07-14 08:01:23] Executed INSERT query. Rows affected: 1
+[2024-07-14 08:01:23] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-14 08:01:23] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246882
+    [screen_group_name] => Kondappa RGK
+    [screen_account_id] => SIGN2875
+    [screen_group_status] => 
+)
+
+[2024-07-14 08:01:23] New group created - ID: 246882, Name: Kondappa RGK, Account ID: SIGN2875
+[2024-07-15 09:10:41] Connected to database successfully.
+[2024-07-15 09:10:41] Current database: u740693683_signager
+[2024-07-15 09:10:41] Table exists: Yes
+[2024-07-15 09:10:41] Autocommit status: Enabled
+[2024-07-15 09:10:41] Retrieved screen_account_id: SIGN2870 for user_id: 1
+[2024-07-15 09:10:41] New screen_group_id: 246861
+[2024-07-15 09:10:41] Executed INSERT query. Rows affected: 1
+[2024-07-15 09:10:41] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-15 09:10:41] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246861
+    [screen_group_name] => Kondappa
+    [screen_account_id] => SIGN2870
+    [screen_group_status] => 
+)
+
+[2024-07-15 09:10:41] New group created - ID: 246861, Name: Kondappa, Account ID: SIGN2870
+[2024-07-15 15:23:16] Connected to database successfully.
+[2024-07-15 15:23:16] Current database: u740693683_signager
+[2024-07-15 15:23:16] Table exists: Yes
+[2024-07-15 15:23:16] Autocommit status: Enabled
+[2024-07-15 15:23:16] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-07-15 15:23:16] New screen_group_id: 246861
+[2024-07-15 15:23:16] Executed INSERT query. Rows affected: 1
+[2024-07-15 15:23:16] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-15 15:23:16] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246861
+    [screen_group_name] => My Group 1
+    [screen_account_id] => SIGN2871
+    [screen_group_status] => 
+)
+
+[2024-07-15 15:23:16] New group created - ID: 246861, Name: My Group 1, Account ID: SIGN2871
+[2024-07-17 07:05:36] Connected to database successfully.
+[2024-07-17 07:05:36] Current database: u740693683_signager
+[2024-07-17 07:05:36] Table exists: Yes
+[2024-07-17 07:05:36] Autocommit status: Enabled
+[2024-07-17 07:05:36] Retrieved screen_account_id: SIGN2870 for user_id: 1
+[2024-07-17 07:05:36] New screen_group_id: 246862
+[2024-07-17 07:05:36] Executed INSERT query. Rows affected: 1
+[2024-07-17 07:05:36] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-17 07:05:36] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246862
+    [screen_group_name] => Kondappa RGK
+    [screen_account_id] => SIGN2870
+    [screen_group_status] => 
+)
+
+[2024-07-17 07:05:36] New group created - ID: 246862, Name: Kondappa RGK, Account ID: SIGN2870
+[2024-07-17 11:44:37] Connected to database successfully.
+[2024-07-17 11:44:37] Current database: u740693683_signager
+[2024-07-17 11:44:37] Table exists: Yes
+[2024-07-17 11:44:37] Autocommit status: Enabled
+[2024-07-17 11:44:37] Retrieved screen_account_id: SIGN2870 for user_id: 1
+[2024-07-17 11:44:37] New screen_group_id: 246861
+[2024-07-17 11:44:37] Executed INSERT query. Rows affected: 1
+[2024-07-17 11:44:37] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-17 11:44:37] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246861
+    [screen_group_name] => Mumbai North Zone
+    [screen_account_id] => SIGN2870
+    [screen_group_status] => 
+)
+
+[2024-07-17 11:44:37] New group created - ID: 246861, Name: Mumbai North Zone, Account ID: SIGN2870
+[2024-07-17 11:59:13] Form submitted with empty group name.
+[2024-07-17 11:59:37] Connected to database successfully.
+[2024-07-17 11:59:37] Current database: u740693683_signager
+[2024-07-17 11:59:37] Table exists: Yes
+[2024-07-17 11:59:37] Autocommit status: Enabled
+[2024-07-17 11:59:37] Retrieved screen_account_id: SIGN2870 for user_id: 1
+[2024-07-17 11:59:37] New screen_group_id: 246862
+[2024-07-17 11:59:37] Executed INSERT query. Rows affected: 1
+[2024-07-17 11:59:37] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-17 11:59:37] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246862
+    [screen_group_name] => Mumbai North Zone
+    [screen_account_id] => SIGN2870
+    [screen_group_status] => 
+)
+
+[2024-07-17 11:59:37] New group created - ID: 246862, Name: Mumbai North Zone, Account ID: SIGN2870
+[2024-07-17 12:10:55] Connected to database successfully.
+[2024-07-17 12:10:55] Current database: u740693683_signager
+[2024-07-17 12:10:55] Table exists: Yes
+[2024-07-17 12:10:55] Autocommit status: Enabled
+[2024-07-17 12:10:55] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-07-17 12:10:55] New screen_group_id: 246863
+[2024-07-17 12:10:55] Executed INSERT query. Rows affected: 1
+[2024-07-17 12:10:55] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-17 12:10:55] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246863
+    [screen_group_name] => Bangalore
+    [screen_account_id] => SIGN2871
+    [screen_group_status] => 
+)
+
+[2024-07-17 12:10:55] New group created - ID: 246863, Name: Bangalore, Account ID: SIGN2871
+[2024-07-23 08:59:51] Connected to database successfully.
+[2024-07-23 08:59:51] Current database: u740693683_signager
+[2024-07-23 08:59:51] Table exists: Yes
+[2024-07-23 08:59:51] Autocommit status: Enabled
+[2024-07-23 08:59:51] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-07-23 08:59:51] New screen_group_id: 246864
+[2024-07-23 08:59:51] Executed INSERT query. Rows affected: 1
+[2024-07-23 08:59:51] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-23 08:59:51] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246864
+    [screen_group_name] => Hyderabad
+    [screen_account_id] => SIGN2871
+    [screen_group_status] => 
+)
+
+[2024-07-23 08:59:51] New group created - ID: 246864, Name: Hyderabad, Account ID: SIGN2871
+[2024-07-29 11:45:17] Connected to database successfully.
+[2024-07-29 11:45:17] Current database: u740693683_signager
+[2024-07-29 11:45:17] Table exists: Yes
+[2024-07-29 11:45:17] Autocommit status: Enabled
+[2024-07-29 11:45:17] Retrieved screen_account_id: SIGN2872 for user_id: 3
+[2024-07-29 11:45:17] New screen_group_id: 246863
+[2024-07-29 11:45:17] Executed INSERT query. Rows affected: 1
+[2024-07-29 11:45:17] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-29 11:45:17] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246863
+    [screen_group_name] => TAMILNADU GROUP
+    [screen_account_id] => SIGN2872
+    [screen_group_status] => 
+)
+
+[2024-07-29 11:45:17] New group created - ID: 246863, Name: TAMILNADU GROUP, Account ID: SIGN2872
+[2024-07-30 10:40:42] Connected to database successfully.
+[2024-07-30 10:40:42] Current database: u740693683_signager
+[2024-07-30 10:40:42] Table exists: Yes
+[2024-07-30 10:40:42] Autocommit status: Enabled
+[2024-07-30 10:40:42] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-07-30 10:40:42] New screen_group_id: 246864
+[2024-07-30 10:40:42] Executed INSERT query. Rows affected: 1
+[2024-07-30 10:40:42] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-30 10:40:42] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246864
+    [screen_group_name] => NEW DELHI
+    [screen_account_id] => SIGN2871
+    [screen_group_status] => 
+)
+
+[2024-07-30 10:40:42] New group created - ID: 246864, Name: NEW DELHI, Account ID: SIGN2871
+[2024-07-30 10:40:53] Connected to database successfully.
+[2024-07-30 10:40:53] Current database: u740693683_signager
+[2024-07-30 10:40:53] Table exists: Yes
+[2024-07-30 10:40:53] Autocommit status: Enabled
+[2024-07-30 10:40:53] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-07-30 10:40:53] New screen_group_id: 246865
+[2024-07-30 10:40:53] Executed INSERT query. Rows affected: 1
+[2024-07-30 10:40:53] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-30 10:40:53] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246865
+    [screen_group_name] => KONDAPPA
+    [screen_account_id] => SIGN2871
+    [screen_group_status] => 
+)
+
+[2024-07-30 10:40:53] New group created - ID: 246865, Name: KONDAPPA, Account ID: SIGN2871
+[2024-07-30 10:41:16] Connected to database successfully.
+[2024-07-30 10:41:16] Current database: u740693683_signager
+[2024-07-30 10:41:16] Table exists: Yes
+[2024-07-30 10:41:16] Autocommit status: Enabled
+[2024-07-30 10:41:16] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-07-30 10:41:16] New screen_group_id: 246866
+[2024-07-30 10:41:16] Executed INSERT query. Rows affected: 1
+[2024-07-30 10:41:16] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-07-30 10:41:16] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246866
+    [screen_group_name] => NEW DELHI
+    [screen_account_id] => SIGN2871
+    [screen_group_status] => 
+)
+
+[2024-07-30 10:41:16] New group created - ID: 246866, Name: NEW DELHI, Account ID: SIGN2871
+[2024-08-12 12:55:52] Connected to database successfully.
+[2024-08-12 12:55:52] Current database: u740693683_signager
+[2024-08-12 12:55:52] Table exists: Yes
+[2024-08-12 12:55:52] Autocommit status: Enabled
+[2024-08-12 12:55:52] Retrieved screen_account_id: SIGN2873 for user_id: 4
+[2024-08-12 12:55:52] New screen_group_id: 246867
+[2024-08-12 12:55:52] Executed INSERT query. Rows affected: 1
+[2024-08-12 12:55:52] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-08-12 12:55:52] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246867
+    [screen_group_name] => H O
+    [screen_account_id] => SIGN2873
+    [screen_group_status] => 
+)
+
+[2024-08-12 12:55:52] New group created - ID: 246867, Name: H O, Account ID: SIGN2873
+[2024-08-13 06:58:27] Connected to database successfully.
+[2024-08-13 06:58:27] Current database: u740693683_signager
+[2024-08-13 06:58:27] Table exists: Yes
+[2024-08-13 06:58:27] Autocommit status: Enabled
+[2024-08-13 06:58:27] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-08-13 06:58:27] New screen_group_id: 246868
+[2024-08-13 06:58:27] Executed INSERT query. Rows affected: 1
+[2024-08-13 06:58:27] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-08-13 06:58:27] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246868
+    [screen_group_name] => Bangalore One
+    [screen_account_id] => SIGN2871
+    [screen_group_status] => 
+)
+
+[2024-08-13 06:58:27] New group created - ID: 246868, Name: Bangalore One, Account ID: SIGN2871
+[2024-08-13 12:29:31] Connected to database successfully.
+[2024-08-13 12:29:31] Current database: u740693683_signager
+[2024-08-13 12:29:31] Table exists: Yes
+[2024-08-13 12:29:31] Autocommit status: Enabled
+[2024-08-13 12:29:31] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-08-13 12:29:31] New screen_group_id: 246868
+[2024-08-13 12:29:31] Executed INSERT query. Rows affected: 1
+[2024-08-13 12:29:31] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-08-13 12:29:31] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246868
+    [screen_group_name] => Bangalore
+    [screen_account_id] => SIGN2871
+    [screen_group_status] => 
+)
+
+[2024-08-13 12:29:31] New group created - ID: 246868, Name: Bangalore, Account ID: SIGN2871
+[2024-08-14 09:24:29] Connected to database successfully.
+[2024-08-14 09:24:29] Current database: u740693683_signager
+[2024-08-14 09:24:29] Table exists: Yes
+[2024-08-14 09:24:29] Autocommit status: Enabled
+[2024-08-14 09:24:29] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-08-14 09:24:29] New screen_group_id: 246869
+[2024-08-14 09:24:29] Executed INSERT query. Rows affected: 1
+[2024-08-14 09:24:29] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-08-14 09:24:29] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246869
+    [screen_group_name] => Chennai
+    [screen_account_id] => SIGN2871
+    [screen_group_status] => 
+)
+
+[2024-08-14 09:24:29] New group created - ID: 246869, Name: Chennai, Account ID: SIGN2871
+[2024-08-26 09:35:05] Connected to database successfully.
+[2024-08-26 09:35:05] Current database: u740693683
+[2024-08-26 09:35:05] Table exists: Yes
+[2024-08-26 09:35:05] Autocommit status: Enabled
+[2024-08-26 09:35:05] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-08-26 09:35:05] New screen_group_id: 246870
+[2024-08-26 09:35:05] Exception occurred: Error: SQLSTATE[HY000]: General error: 1364 Field 'screen_group_status' doesn't have a default value
+[2024-08-26 09:35:31] Connected to database successfully.
+[2024-08-26 09:35:31] Current database: u740693683
+[2024-08-26 09:35:31] Table exists: Yes
+[2024-08-26 09:35:31] Autocommit status: Enabled
+[2024-08-26 09:35:31] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-08-26 09:35:31] New screen_group_id: 246870
+[2024-08-26 09:35:31] Exception occurred: Error: SQLSTATE[HY000]: General error: 1364 Field 'screen_group_status' doesn't have a default value
+[2024-08-28 07:19:11] Connected to database successfully.
+[2024-08-28 07:19:11] Current database: u740693683
+[2024-08-28 07:19:11] Table exists: Yes
+[2024-08-28 07:19:11] Autocommit status: Enabled
+[2024-08-28 07:19:12] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-08-28 07:19:12] New screen_group_id: 246870
+[2024-08-28 07:19:12] Exception occurred: Error: SQLSTATE[HY000]: General error: 1364 Field 'screen_group_status' doesn't have a default value
+[2024-08-28 07:22:40] Connected to database successfully.
+[2024-08-28 07:22:40] Current database: u740693683
+[2024-08-28 07:22:40] Table exists: Yes
+[2024-08-28 07:22:40] Autocommit status: Enabled
+[2024-08-28 07:22:40] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-08-28 07:22:40] New screen_group_id: 246870
+[2024-08-28 07:22:40] Exception occurred: Error: SQLSTATE[HY000]: General error: 1364 Field 'screen_group_status' doesn't have a default value
+[2024-08-28 07:36:24] Connected to database successfully.
+[2024-08-28 07:36:24] Current database: u740693683
+[2024-08-28 07:36:24] Table exists: Yes
+[2024-08-28 07:36:24] Autocommit status: Enabled
+[2024-08-28 07:36:24] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-08-28 07:36:24] New screen_group_id: 246870
+[2024-08-28 07:36:24] Exception occurred: Error: SQLSTATE[HY000]: General error: 1364 Field 'screen_group_status' doesn't have a default value
+[2024-08-28 07:36:24] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-08-28 07:36:24] Connected to database successfully.
+[2024-08-28 07:36:24] Current database: u740693683
+[2024-08-28 07:36:24] Table exists: Yes
+[2024-08-28 07:36:24] Autocommit status: Enabled
+[2024-08-28 07:36:24] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-08-28 07:36:24] New screen_group_id: 246870
+[2024-08-28 07:36:24] Exception occurred: Error: SQLSTATE[HY000]: General error: 1364 Field 'screen_group_status' doesn't have a default value
+[2024-08-28 07:36:24] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-08-28 07:38:03] Connected to database successfully.
+[2024-08-28 07:38:03] Current database: u740693683
+[2024-08-28 07:38:03] Table exists: Yes
+[2024-08-28 07:38:03] Autocommit status: Enabled
+[2024-08-28 07:38:03] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-08-28 07:38:03] New screen_group_id: 246870
+[2024-08-28 07:38:03] Exception occurred: Error: SQLSTATE[HY000]: General error: 1364 Field 'screen_group_status' doesn't have a default value
+[2024-08-28 07:42:12] Connected to database successfully.
+[2024-08-28 07:42:12] Current database: u740693683
+[2024-08-28 07:42:12] Table exists: Yes
+[2024-08-28 07:42:12] Autocommit status: Enabled
+[2024-08-28 07:42:12] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-08-28 07:42:12] New screen_group_id: 246870
+[2024-08-28 07:42:12] Executed INSERT query. Rows affected: 1
+[2024-08-28 07:42:12] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-08-28 07:42:12] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246870
+    [screen_group_name] => Bangalore
+    [screen_account_id] => SIGN2871
+    [screen_group_status] => 
+)
+
+[2024-08-28 07:42:12] New group created - ID: 246870, Name: Bangalore, Account ID: SIGN2871
+[2024-09-18 05:38:04] Connected to database successfully.
+[2024-09-18 05:38:04] Current database: u740693683
+[2024-09-18 05:38:04] Table exists: Yes
+[2024-09-18 05:38:04] Autocommit status: Enabled
+[2024-09-18 05:38:04] Retrieved screen_account_id: SIGN2871 for user_id: 2
+[2024-09-18 05:38:04] New screen_group_id: 246871
+[2024-09-18 05:38:04] Executed INSERT query. Rows affected: 1
+[2024-09-18 05:38:04] PDO Error Info: Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+
+[2024-09-18 05:38:04] Immediately after INSERT, SELECT result: Array
+(
+    [screen_group_id] => 246871
+    [screen_group_name] => Mumbai 1
+    [screen_account_id] => SIGN2871
+    [screen_group_status] => 
+)
+
+[2024-09-18 05:38:04] New group created - ID: 246871, Name: Mumbai 1, Account ID: SIGN2871
