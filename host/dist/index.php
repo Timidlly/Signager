@@ -59,6 +59,22 @@ if ($account_id) {
         $total_groups = $group_result->fetch_assoc()['total'];
     }
     $group_stmt->close();
+
+    // Fetch the number of pings received in the last 30 seconds
+    $ping_count = 0;
+    $ping_stmt = $conn->prepare("
+        SELECT COUNT(DISTINCT p.unique_screen_id) as ping_count
+        FROM `6.ping` p
+        JOIN `3.screens_groups_and_accounts` s ON p.unique_screen_id = s.unique_screen_id
+        WHERE p.account_id = ? AND s.screen_account_id = ? AND p.timestamp >= NOW() - INTERVAL 30 SECOND
+    ");
+    $ping_stmt->bind_param("ss", $account_id, $account_id);
+    $ping_stmt->execute();
+    $ping_result = $ping_stmt->get_result();
+    if ($ping_result->num_rows > 0) {
+        $ping_count = $ping_result->fetch_assoc()['ping_count'];
+    }
+    $ping_stmt->close();
 }
 
 $conn->close();
@@ -85,120 +101,121 @@ $conn->close();
     <link rel="stylesheet" href="../../host/assets/css/style.css">
     <!-- endinject -->
     <link rel="shortcut icon" href="host/assets/images/favicon.png" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   </head>
   <body>
     <div class="container-scroller">
       <!-- partial:../../partials/_navbar.html -->
       <nav class="navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
-  <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-start">
-    <a class="navbar-brand brand-logo me-5" href="index.php"><img src="../../host/assets/images/signager_logo.png" class="me-2" alt="logo" /></a>
-    <a class="navbar-brand brand-logo-mini" href="index.php"><img src="../../host/assets/images/signager_logo_mini.png" alt="logo" /></a>
-  </div>
- <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
-    <ul class="navbar-nav navbar-nav-right">
-      <li class="nav-item dropdown">
-        <a class="nav-link count-indicator dropdown-toggle" id="notificationDropdown" href="#" data-bs-toggle="dropdown">
-          <i class="icon-bell mx-0"></i>
-          <span class="count"></span>
-        </a>
-        <div class="dropdown-menu dropdown-menu-right navbar-dropdown preview-list" aria-labelledby="notificationDropdown">
-          <p class="mb-0 font-weight-normal float-left dropdown-header">Notifications</p>
-          <a class="dropdown-item preview-item">
-            <div class="preview-thumbnail">
-              <div class="preview-icon bg-success">
-                <i class="ti-info-alt mx-0"></i>
-              </div>
-            </div>
-            <div class="preview-item-content">
-              <h6 class="preview-subject font-weight-normal">Application Error</h6>
-              <p class="font-weight-light small-text mb-0 text-muted"> Just now </p>
-            </div>
-          </a>
-          <a class="dropdown-item preview-item">
-            <div class="preview-thumbnail">
-              <div class="preview-icon bg-warning">
-                <i class="ti-settings mx-0"></i>
-              </div>
-            </div>
-            <div class="preview-item-content">
-              <h6 class="preview-subject font-weight-normal">Settings</h6>
-              <p class="font-weight-light small-text mb-0 text-muted"> Private message </p>
-            </div>
-          </a>
-          <a class="dropdown-item preview-item">
-            <div class="preview-thumbnail">
-              <div class="preview-icon bg-info">
-                <i class="ti-user mx-0"></i>
-              </div>
-            </div>
-            <div class="preview-item-content">
-              <h6 class="preview-subject font-weight-normal">New user registration</h6>
-              <p class="font-weight-light small-text mb-0 text-muted"> 2 days ago </p>
-            </div>
-          </a>
+        <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-start">
+          <a class="navbar-brand brand-logo me-5" href="index.php"><img src="../../host/assets/images/signager_logo.png" class="me-2" alt="logo" /></a>
+          <a class="navbar-brand brand-logo-mini" href="index.php"><img src="../../host/assets/images/signager_logo_mini.png" alt="logo" /></a>
         </div>
-      </li>
-      <li class="nav-item nav-profile dropdown">
-        <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" id="profileDropdown">
-          <img src="/host/assets/images/faces/face28.jpg" alt="profile" />
-        </a>
-        <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="profileDropdown">
-          <a class="dropdown-item">
-            <i class="ti-settings text-primary"></i> Settings </a>
-          <a class="dropdown-item" href="/host/logout.php">
-  <i class="ti-power-off text-primary"></i> Logout
-</a>
+        <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
+          <ul class="navbar-nav navbar-nav-right">
+            <li class="nav-item dropdown">
+              <a class="nav-link count-indicator dropdown-toggle" id="notificationDropdown" href="#" data-bs-toggle="dropdown">
+                <i class="icon-bell mx-0"></i>
+                <span class="count"></span>
+              </a>
+              <div class="dropdown-menu dropdown-menu-right navbar-dropdown preview-list" aria-labelledby="notificationDropdown">
+                <p class="mb-0 font-weight-normal float-left dropdown-header">Notifications</p>
+                <a class="dropdown-item preview-item">
+                  <div class="preview-thumbnail">
+                    <div class="preview-icon bg-success">
+                      <i class="ti-info-alt mx-0"></i>
+                    </div>
+                  </div>
+                  <div class="preview-item-content">
+                    <h6 class="preview-subject font-weight-normal">Application Error</h6>
+                    <p class="font-weight-light small-text mb-0 text-muted"> Just now </p>
+                  </div>
+                </a>
+                <a class="dropdown-item preview-item">
+                  <div class="preview-thumbnail">
+                    <div class="preview-icon bg-warning">
+                      <i class="ti-settings mx-0"></i>
+                    </div>
+                  </div>
+                  <div class="preview-item-content">
+                    <h6 class="preview-subject font-weight-normal">Settings</h6>
+                    <p class="font-weight-light small-text mb-0 text-muted"> Private message </p>
+                  </div>
+                </a>
+                <a class="dropdown-item preview-item">
+                  <div class="preview-thumbnail">
+                    <div class="preview-icon bg-info">
+                      <i class="ti-user mx-0"></i>
+                    </div>
+                  </div>
+                  <div class="preview-item-content">
+                    <h6 class="preview-subject font-weight-normal">New user registration</h6>
+                    <p class="font-weight-light small-text mb-0 text-muted"> 2 days ago </p>
+                  </div>
+                </a>
+              </div>
+            </li>
+            <li class="nav-item nav-profile dropdown">
+              <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" id="profileDropdown">
+                <img src="https://www.signager.cloud/host/dist/assets/images/faces/face28.jpg" alt="profile" />
+              </a>
+              <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="profileDropdown">
+                <a class="dropdown-item">
+                  <i class="ti-settings text-primary"></i> Settings
+                </a>
+                <a class="dropdown-item" href="/host/logout.php">
+                  <i class="ti-power-off text-primary"></i> Logout
+                </a>
+              </div>
+            </li>
+          </ul>
+          <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
+            <span class="icon-menu"></span>
+          </button>
         </div>
-      </li>
-    </ul>
-    <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
-      <span class="icon-menu"></span>
-    </button>
-  </div>
-</nav>
+      </nav>
 
       <!-- partial -->
       <div class="container-fluid page-body-wrapper">
         <!-- partial:../../partials/_sidebar.html -->
         <nav class="sidebar sidebar-offcanvas" id="sidebar" style="background:#D9D9D9;">
-  <ul class="nav">
-    <li class="nav-item">
-      <a class="nav-link" href="../../host/dist/index.php">
-        <i class="icon-grid menu-icon"></i>
-        <span class="menu-title">Dashboard</span>
-      </a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" data-bs-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
-        <i class="icon-layout menu-icon"></i>
-        <span class="menu-title">Manage Assets</span>
-        <i class="menu-arrow"></i>
-      </a>
-      <div class="collapse" id="ui-basic">
-        <ul class="nav flex-column sub-menu">
-            <li class="nav-item"> <a class="nav-link" href="sign-drive.php">Sign Drive</a></li>
-         <li class="nav-item"> <a class="nav-link" href="groups.php">Groups</a></li>
-          <li class="nav-item"> <a class="nav-link" href="create-a-screen.php">Create a screen</a></li>
-          <li class="nav-item"> <a class="nav-link" href="manager-screens.php">Manage Screens</a></li>
-        </ul>
-      </div>
-    </li>
-    <li class="nav-item">
+          <ul class="nav">
+            <li class="nav-item">
+              <a class="nav-link" href="../../host/dist/index.php">
+                <i class="icon-grid menu-icon"></i>
+                <span class="menu-title">Dashboard</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-bs-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
+                <i class="icon-layout menu-icon"></i>
+                <span class="menu-title">Manage Assets</span>
+                <i class="menu-arrow"></i>
+              </a>
+              <div class="collapse" id="ui-basic">
+                <ul class="nav flex-column sub-menu">
+                  <li class="nav-item"> <a class="nav-link" href="sign-drive.php">Sign Drive</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="groups.php">Groups</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="create-a-screen.php">Create a screen</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="manager-screens.php">Manage Screens</a></li>
+                </ul>
+              </div>
+            </li>
+            <li class="nav-item">
               <a class="nav-link" href="analytics.php">
                 <i class="icon-bar-graph menu-icon"></i>
                 <span class="menu-title">Analytics</span>
                 <span class="badge badge-pill badge-danger ml-auto" style="font-size: 0.5rem; padding: 0.2rem 0.5rem; margin-left: 10px; background-color: #ffcccc; color: #ff0000; border: 1px solid #ff0000;">Coming Soon</span>
               </a>
             </li>
-  
-    <li class="nav-item">
-      <a class="nav-link" href="settings.php">
-        <i class="icon-grid menu-icon"></i>
-        <span class="menu-title">Settings</span>
-      </a>
-    </li>
-  </ul>
-</nav>
+            <li class="nav-item">
+              <a class="nav-link" href="settings.php">
+                <i class="icon-grid menu-icon"></i>
+                <span class="menu-title">Settings</span>
+              </a>
+            </li>
+          </ul>
+        </nav>
         <!-- partial -->
         <div class="main-panel">
           <div class="content-wrapper" style="background:white;">
@@ -207,7 +224,7 @@ $conn->close();
                 <div class="row">
                   <div class="col-12 col-xl-8 mb-4 mb-xl-0">
                     <h3 class="font-weight-bold">Welcome <?php echo htmlspecialchars($user_name ?? 'User'); ?></h3>
-                    <h6 class="font-weight-normal mb-0"><b>Signager Gen 1</b> all systems are running optimal! You have <span class="text-primary">3 unread alerts!</span></h6>
+                    <h6 class="font-weight-normal mb-0"><b>Signager Gen 1</b> all systems are running optimal!<!--- You have <span class="text-primary">3 unread alerts!</span>---></h6>
                   </div>
                   <div class="col-12 col-xl-4">
                     <div class="justify-content-end d-flex">
@@ -220,9 +237,9 @@ $conn->close();
             </div>
             <div class="row">
               <div class="col-md-6 grid-margin stretch-card">
-                <div class="card tale-bg">
-                  <div class="card-people mt-auto">
-                    <img src="assets/images/dashboard/people.svg" alt="people">
+                <div class="card tale-bg" >
+                  <div class="card-people mt-auto" style="background:#5e17eb; border-radius: 20px;">
+                    <img src="assets/images/dashboard/ridaex+signager3.webp" alt="people">
                     <div class="weather-info">
                       <div class="d-flex">
                         <div>
@@ -236,18 +253,18 @@ $conn->close();
                 <div class="row">
                   <div class="col-md-6 mb-4 stretch-card transparent">
                     <div class="card card-tale">
-                      <div class="card-body"style="background:#00BF63; border-radius: 20px;">
+                      <div class="card-body" style="background:#00BF63; border-radius: 20px;">
                         <p class="mb-4"><b>Screens Online</b></p>
-                        <p class="fs-30 mb-2">Pinging</p>
+                        <p class="fs-30 mb-2" id="screens-online"><?php echo $ping_count; ?></p>
                         <p>In last 30 seconds</p>
                       </div>
                     </div>
                   </div>
                   <div class="col-md-6 mb-4 stretch-card transparent">
                     <div class="card card-dark-blue">
-                      <div class="card-body"style="background:#FF4747; border-radius: 20px;">
+                      <div class="card-body" style="background:#FF4747; border-radius: 20px;">
                         <p class="mb-4"><b>Screens Offline</b></p>
-                        <p class="fs-30 mb-2">Pinging</p>
+                        <p class="fs-30 mb-2" id="screens-offline"><?php echo $total_screens - $ping_count; ?></p>
                         <p>In last 30 seconds</p>
                       </div>
                     </div>
@@ -260,7 +277,7 @@ $conn->close();
                         <p class="mb-4"><b>Total Number Of Screens</b></p>
                         <p class="fs-30 mb-2"><?php echo $total_screens; ?></p>
                         <p>In your account</p>
-                      </div>
+                        </div>
                     </div>
                   </div>
                   <div class="col-md-6 stretch-card transparent">
@@ -276,6 +293,9 @@ $conn->close();
               </div>
             </div>
           </div>
+          <!-- content-wrapper ends -->
+          <!-- partial:partials/_footer.html -->
+          
           <!-- partial -->
         </div>
         <!-- main-panel ends -->
@@ -299,9 +319,27 @@ $conn->close();
     <script src="assets/js/todolist.js"></script>
     <!-- endinject -->
     <!-- Custom js for this page-->
-    
     <script src="assets/js/jquery.cookie.js" type="text/javascript"></script>
     <script src="assets/js/dashboard.js"></script>
     <!-- End custom js for this page-->
+    <script>
+      function updateScreenCounts() {
+        $.ajax({
+          url: 'get_screen_counts.php',
+          type: 'GET',
+          dataType: 'json',
+          success: function(data) {
+            $('#screens-online').text(data.online);
+            $('#screens-offline').text(data.offline);
+          },
+          error: function() {
+            console.log('Error fetching screen counts');
+          }
+        });
+      }
+
+      // Update every 30 seconds
+      setInterval(updateScreenCounts, 30000);
+    </script>
   </body>
 </html>

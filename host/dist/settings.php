@@ -94,7 +94,7 @@ $email = $_SESSION['email'];
       </li>
       <li class="nav-item nav-profile dropdown">
         <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" id="profileDropdown">
-          <img src="/host/assets/images/faces/face28.jpg" alt="profile" />
+          <img src="https://www.signager.cloud/host/dist/assets/images/faces/face28.jpg" alt="profile" />
         </a>
         <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="profileDropdown">
           <a class="dropdown-item">
@@ -204,7 +204,7 @@ $email = $_SESSION['email'];
       
       <div class="text-center mt-3">
         <img src="/host/dist/assets/images/success.webp" alt="Success" style="width: 20%;">
-        <p class="mt-3" style="color: #5E17EB; "><b>Congratulations!</b><br>The new screen is successfully added.</p>
+        <p class="mt-3" style="color: #5E17EB; "><b>Congratulations!</b><br>Your password is successfully changed.</p>
       </div>
     </div>
   </div>

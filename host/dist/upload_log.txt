@@ -585,3 +585,9 @@
 [2024-09-18 05:37:23] Attempting to insert into 4.sign_drive - Account ID: SIGN2871, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66ea67134be8c_1.jpg
 [2024-09-18 05:37:23] Insertion into 4.sign_drive completed
 [2024-09-18 05:37:23] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2871/user-images/66ea67134be8c_1.jpg
+[2024-09-18 08:56:58] db_config.php found and included
+[2024-09-18 08:56:58] Account ID fetched: SIGN2875
+[2024-09-18 08:56:58] File upload attempt - Type: image, File type: image/png, Size: 384988
+[2024-09-18 08:56:58] Attempting to insert into 4.sign_drive - Account ID: SIGN2875, Type: image, Path: https://www.signager.cloud/host/dist/user-content/SIGN2875/user-images/66ea95da2d245_HappyBunchDesk.png
+[2024-09-18 08:56:58] Insertion into 4.sign_drive completed
+[2024-09-18 08:56:58] File uploaded successfully - Path: https://www.signager.cloud/host/dist/user-content/SIGN2875/user-images/66ea95da2d245_HappyBunchDesk.png
